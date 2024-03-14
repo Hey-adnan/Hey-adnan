@@ -1,13 +1,11 @@
-<h2 align="left">Hi 👋! My name is Adnan </h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hey-adnan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=hey-adnan&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hey-adnan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hey-adnan&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
@@ -55,9 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/hey-adnan/hey-adnan/output/snake.svg" alt="Snake animation" />
 
 ###
